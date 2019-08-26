@@ -51,6 +51,8 @@ public class DeleteAccount extends JFrame implements ActionListener {
 		this.setVisible(true);
 	}
 	public static void main(String[] args) {
+		//this is my second commit!
+		//this will be shown only after i commit!
 		new DeleteAccount();
 	}
 
